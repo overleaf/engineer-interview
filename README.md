@@ -6,7 +6,7 @@ British American Scientific International Commercial (BASIC) English is a constr
 
 It is an interesting exercise to try to write out a complicated idea in simple English (e.g. (https://xkcd.com/1133)), and a spell checker that tells you when you are using BASIC English would be a useful tool.
 
-![XKCD 1133](https://imgs.xkcd.com/comics/up_goer_five.png)
+<img src="https://imgs.xkcd.com/comics/up_goer_five.png" width="20%">
 
 ## Objectives
 
